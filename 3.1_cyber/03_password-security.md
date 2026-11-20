@@ -26,6 +26,7 @@ Explain why weak passwords are dangerous.
 Run:
 
     echo "Tr4!nBicyclePlanet" | cracklib-check
+    use  echo 'Tr4!nBicyclePlanet' | cracklib-check instead of "
 
 ### Screenshot
 
